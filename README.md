@@ -1,8 +1,8 @@
 <div align="center">
 
-# Oi, eu sou a Priscila 👋
+# Oi, eu sou a Priscila!
 
-**Analista de Dados · Desenvolvedora Python · QA**
+**Analista de Dados · Desenvolvedora Python e PHP · QA**
 
 Belo Horizonte, MG · Disponível para remoto
 
