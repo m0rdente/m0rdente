@@ -35,21 +35,31 @@ Tenho fundo em QA, o que significa que além de construir, me preocupo em testar
 
 **Ferramentas & Frameworks**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## Projetos em Destaque
+## Projeto em destaque
+
+### 💰 [finance-dashboard](https://github.com/m0rdente/finance-dashboard)
+Dashboard full stack de gestão financeira pessoal, com autenticação JWT, confirmação de cadastro e recuperação de senha por email, categorias, metas com histórico de aportes e gráficos de fluxo mensal.
+
+`Python` · `FastAPI` · `PostgreSQL` · `React` · `Docker` · `SMTP`
+
+---
+
+## Outros projetos
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| [pokedex-api](https://github.com/m0rdente/pokedex-api) | API REST que consome a PokéAPI com documentação Swagger | Python · FastAPI · Httpx |
 | [task-manager-api](https://github.com/m0rdente/task-manager-api) | CRUD completo com PostgreSQL e padrão Repository | Python · FastAPI · PostgreSQL |
+| [pokedex-api](https://github.com/m0rdente/pokedex-api) | API REST que consome a PokéAPI com documentação Swagger | Python · FastAPI · Httpx |
 | [automacao-relatorios](https://github.com/m0rdente/automacao-relatorios) | Extrai dados do PostgreSQL e gera relatório Excel formatado | Python · Psycopg2 · Openpyxl |
 | [qa-test-suite](https://github.com/m0rdente/qa-test-suite) | Suite de testes de integração para APIs REST | Python · Pytest · Requests |
 | [rpgmaker](https://github.com/m0rdente/rpgmaker) | Jogo desenvolvido no RPG Maker - projeto pessoal de lógica | JavaScript · RPG Maker MV |
