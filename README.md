@@ -69,7 +69,7 @@ Dashboard full stack de gestão financeira pessoal, com autenticação JWT, conf
 ## Experiência
 
 ```
-SCN – Serviço de Crédito Nacional                     2016 – 2025
+SCN – Serviço de Crédito Nacional                     2016 – 2026
 ├── Suporte Técnico N1                                 2016 – 2022
 ├── Suporte Técnico N2                                 2022 – 2023
 └── Desenvolvedora PHP Phyton / Analista de Dados / QA   2023 – 2026
