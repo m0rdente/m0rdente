@@ -52,7 +52,7 @@ Tenho fundo em QA, o que significa que além de construir, me preocupo em testar
 | [task-manager-api](https://github.com/m0rdente/task-manager-api) | CRUD completo com PostgreSQL e padrão Repository | Python · FastAPI · PostgreSQL |
 | [automacao-relatorios](https://github.com/m0rdente/automacao-relatorios) | Extrai dados do PostgreSQL e gera relatório Excel formatado | Python · Psycopg2 · Openpyxl |
 | [qa-test-suite](https://github.com/m0rdente/qa-test-suite) | Suite de testes de integração para APIs REST | Python · Pytest · Requests |
-| [rpgmaker](https://github.com/m0rdente/rpgmaker) | Jogo desenvolvido no RPG Maker — projeto pessoal de lógica | JavaScript · RPG Maker MV |
+| [rpgmaker](https://github.com/m0rdente/rpgmaker) | Jogo desenvolvido no RPG Maker - projeto pessoal de lógica | JavaScript · RPG Maker MV |
 
 ---
 
@@ -62,7 +62,7 @@ Tenho fundo em QA, o que significa que além de construir, me preocupo em testar
 SCN – Serviço de Crédito Nacional                     2016 – 2025
 ├── Suporte Técnico N1                                 2016 – 2022
 ├── Suporte Técnico N2                                 2022 – 2023
-└── Desenvolvedora Júnior / Analista de Dados / QA    2023 – 2025
+└── Desenvolvedora PHP Phyton / Analista de Dados / QA   2023 – 2026
 ```
 
 ---
