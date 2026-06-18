@@ -47,10 +47,10 @@ Tenho fundo em QA, o que significa que além de construir, me preocupo em testar
 
 ## Projeto em destaque
 
-### 💰 [finance-dashboard](https://github.com/m0rdente/finance-dashboard)
-Dashboard full stack de gestão financeira pessoal, com autenticação JWT, confirmação de cadastro e recuperação de senha por email, categorias, metas com histórico de aportes e gráficos de fluxo mensal.
+### 📓 [agenda-humor-financeiro](https://github.com/m0rdente/agenda-humor-financeiro)
+Agenda full stack que cruza humor diário com gastos pra identificar padrões de compensação emocional (ex: humor baixo associado a mais gastos), com autenticação JWT, orçamento mensal com alerta automático por e-mail, calendário de gastos por dia e exportação de dados em CSV.
 
-`Python` · `FastAPI` · `PostgreSQL` · `React` · `Docker` · `SMTP`
+`Python` · `FastAPI` · `PostgreSQL` · `React` · `JWT` · `SMTP`
 
 ---
 
@@ -58,6 +58,7 @@ Dashboard full stack de gestão financeira pessoal, com autenticação JWT, conf
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
+| [finance-dashboard](https://github.com/m0rdente/finance-dashboard) | Dashboard de gestão financeira pessoal com metas e histórico de aportes | Python · FastAPI · PostgreSQL · React · Docker |
 | [task-manager-api](https://github.com/m0rdente/task-manager-api) | CRUD completo com PostgreSQL e padrão Repository | Python · FastAPI · PostgreSQL |
 | [pokedex-api](https://github.com/m0rdente/pokedex-api) | API REST que consome a PokéAPI com documentação Swagger | Python · FastAPI · Httpx |
 | [automacao-relatorios](https://github.com/m0rdente/automacao-relatorios) | Extrai dados do PostgreSQL e gera relatório Excel formatado | Python · Psycopg2 · Openpyxl |
