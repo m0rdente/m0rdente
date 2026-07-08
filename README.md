@@ -1,8 +1,8 @@
 <div align="center">
 
-# Oi, eu sou a Priscila!
+# Wello, Word!
 
-**Analista de Dados · Desenvolvedora Python e PHP · QA**
+**Especialista em SQL · Desenvolvedora Python e PHP **
 
 Belo Horizonte, MG · Disponível para remoto
 
