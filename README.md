@@ -1,8 +1,8 @@
 <div align="center">
 
-# Wello, Word!
+# Hello, word!
 
-**Especialista em SQL · Desenvolvedora Python e PHP **
+**Especialista em SQL · Desenvolvedora Python e PHP**
 
 Belo Horizonte, MG · Disponível para remoto
 
